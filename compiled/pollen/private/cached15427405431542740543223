@@ -1,0 +1,1 @@
+#hasheq((doc . (pagetree-root (index.html 2018-11-21-arbetslogg-pm.html 2018-11-21-om-min-utopi-pm.html) category/blog.html)) (metas . #hasheq((here-path . "/Users/aphrodite/Yggdrasil/arbetsyta/bernsteinsprojekt/WHusUtopi/index.ptree"))))

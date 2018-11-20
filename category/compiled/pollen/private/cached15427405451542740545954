@@ -1,0 +1,1 @@
+#hasheq((doc . (root (headline) (body) (toc-entries))) (metas . #hasheq((here-path . "/Users/aphrodite/Yggdrasil/arbetsyta/bernsteinsprojekt/WHusUtopi/category/blog.html.pm") (template . "tag-template.html") (title . "blog"))))
